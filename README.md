@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Naresh Suthar
 
-<!--
-**Nareshsuthar7625/Nareshsuthar7625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Computer Science student with a strong interest in programming, problem solving, and software development. I enjoy building projects that combine logical thinking with practical implementation.
 
-Here are some ideas to get you started:
+Currently, I am strengthening my skills in Python, Data Structures, Automata Theory, and NLP-based projects. I like working on academic as well as real-world projects, especially those involving automation, game development, and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Technical Skills
+
+Languages: Python, C, C++, Java
+
+Concepts: Data Structures, Algorithms, DBMS, Operating Systems, Automata Theory
+
+Tools: VS Code, Git, GitHub, PyInstaller
+
+Libraries/Frameworks: Pygame, Basic NLP
+
+🔹 Interests
+
+Software Development
+
+Artificial Intelligence & NLP
+
+Game Development
+
+Problem Solving
+
+I am always eager to learn new technologies and collaborate on innovative projects.
